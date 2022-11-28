@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "630300359027",
+    "project_id": "messageme-app-c3412",
+    "storage_bucket": "messageme-app-c3412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630300359027:android:2df10108b864840d536d06",
+        "android_client_info": {
+          "package_name": "mo.moataz.chatApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630300359027-ibe56jmnn3eoh6b62kbv40qt2oqqjau2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWHmyLGw5bfOmnyvmqoFCWBtLI5Ha-OQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630300359027-ibe56jmnn3eoh6b62kbv40qt2oqqjau2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "630300359027-pqp2ovo8f5rvu5e9qagmtaqndjebngtr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mo.moataz.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
